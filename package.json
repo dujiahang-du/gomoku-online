@@ -1,6 +1,7 @@
 {
   "name": "gomoku-online",
   "version": "1.0.0",
+  "license": "MIT",
   "private": true,
   "description": "一个支持本地、人机和好友房间对战的五子棋小游戏。",
   "scripts": {
